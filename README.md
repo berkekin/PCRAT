@@ -1,4 +1,4 @@
-# pythonransomware
+#PCRAT
 
 EN:   
 In simple terms, the code does the following:Encryption Key Generation: The code generates a random key (encryption key) for the AES encryption algorithm.
